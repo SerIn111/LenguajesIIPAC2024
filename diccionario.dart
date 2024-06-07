@@ -7,10 +7,10 @@ void main() {
     'geo': {'lat': 14.123123, 'lng': -87.123123}
   };
 
-  final roles = {
+  /*final roles = {
     1: 'Admin',
     2: 'Cajero',
-  };
+  };*/
 
   print(persona);
 
